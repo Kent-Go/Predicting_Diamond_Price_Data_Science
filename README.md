@@ -1,4 +1,4 @@
-# Predicting_Diamond_Price_Data_Science
+# Predicting_Diamond_Price_Python
 Maths for Computing 2 (MATH2412)
 
 ## Phase 1: Data Preparation & Visualisation
